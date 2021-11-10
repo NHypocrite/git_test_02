@@ -1,30 +1,29 @@
 ### This is a test aiming to use Windows terminal to create a repository.
 
-1 
+3
+4
+5 this is the first line
+6
+7 
+8
+9 changed
+10
+11 oh
 
-2 this is the first line
+13 ## This change was made on another local branch called master.
 
-3 
+15 This line will only be shown in the master branch
 
-4 changed！！！！！！
+17  This text will be shown in the main branch ！
 
-5 ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+19 This will be shown in a new branch !  
 
-6 啊啊啊啊啊啊啊啊啊啊啊啊
-
-7 This line will only be shown in the master branch
-
-
-8  This text will be shown in the main branch ！
-
-8 This will be shown in a new branch !  
-
-9 This line will also be shown in the feature branch
-
+21 This line will also be shown in the feature branch
 
 
 
-10 there are two blank lines above 
+
+26 there are two blank lines above 
 
 
-
+29
